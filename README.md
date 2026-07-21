@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Ahmad%20Bilal%20Habib&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-leaning%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18" />
 
 <a href="https://ahmadhabib.dev">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-time+systems+%E2%80%A2+backend+services;LUMS+CS+%E2%80%A2+Class+of+2026;Open+to+Full-Stack+%2F+Backend+SWE+roles;Currently+shipping+InterviewPrepApp;&font=Fira+Code&center=true&width=560&height=45&color=6366F1&vCenter=true&size=20&pause=1800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-time+systems+%E2%80%A2+backend+services;LUMS+CS+%E2%80%A2+Class+of+2026;Open+to+Full-Stack+%2F+Backend+SWE+roles;Shipped+InterviewPrepApp+%E2%80%94+try+the+live+demo;&font=Fira+Code&center=true&width=560&height=45&color=6366F1&vCenter=true&size=20&pause=1800" />
 </a>
 
 <br/>
@@ -21,8 +21,9 @@
 <table>
 <tr><td>
 
-🔭 &nbsp;Building **[InterviewPrepApp](https://www.interviewprep.studio)** — real-time AI mock-interview platform (Next.js · Deepgram · Redis)
-🌱 &nbsp;Sharpening systems fundamentals with a **distributed URL shortener** (caching, queues, rate limiting, WebSockets)
+✅ &nbsp;Shipped **[InterviewPrepApp](https://www.interviewprep.studio)** — real-time AI mock-interview platform (Next.js · Deepgram · Redis), live and demoable
+🔭 &nbsp;Building a **distributed URL shortener** — caching, queues, rate limiting, WebSockets
+🤖 &nbsp;Learning to build **complex multi-agentic AI systems** with **LangGraph**
 💼 &nbsp;**Open to Full-Stack / Backend Software Engineer roles** — fresh grad, 2 SWE internships (Tintash, Jaycon)
 ⚡ &nbsp;Ship with AI-assisted tools (Claude Code) — every line still reviewed and tested by hand
 
@@ -40,6 +41,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,docker,aws,git&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/LightGBM-4285F4?style=flat-square" />
