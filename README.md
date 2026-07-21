@@ -18,17 +18,17 @@
 
 ## 🎯 Currently
 
-<table>
-<tr><td>
+<div align="center">
 
-✅ &nbsp;Shipped **[InterviewPrepApp](https://www.interviewprep.studio)** — real-time AI mock-interview platform (Next.js · Deepgram · Redis), live and demoable
-🔭 &nbsp;Building a **distributed URL shortener** — caching, queues, rate limiting, WebSockets
-🤖 &nbsp;Learning to build **complex multi-agentic AI systems** with **LangGraph**
-💼 &nbsp;**Open to Full-Stack / Backend Software Engineer roles** — fresh grad, 2 SWE internships (Tintash, Jaycon)
-⚡ &nbsp;Ship with AI-assisted tools (Claude Code) — every line still reviewed and tested by hand
+🤖&nbsp; Learning to build **complex multi-agentic AI systems** with **LangGraph**
 
-</td></tr>
-</table>
+💼&nbsp; Open to **Full-Stack / Backend Software Engineer** roles
+
+🎓&nbsp; 2 SWE internships — **Tintash** & **Jaycon**
+
+🎙️&nbsp; Shipped **[InterviewPrepApp](https://www.interviewprep.studio)** — live AI mock-interview platform
+
+</div>
 
 <br/>
 
