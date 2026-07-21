@@ -1,113 +1,118 @@
 <div align="center">
 
-# Hi, I'm Ahmad Bilal Habib 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Ahmad%20Bilal%20Habib&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-leaning%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18" />
 
-### Backend-leaning Full-Stack Software Engineer
+<a href="https://ahmadhabib.dev">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-time+systems+%E2%80%A2+backend+services;LUMS+CS+%E2%80%A2+Class+of+2026;Open+to+Full-Stack+%2F+Backend+SWE+roles;Currently+shipping+InterviewPrepApp;&font=Fira+Code&center=true&width=560&height=45&color=6366F1&vCenter=true&size=20&pause=1800" />
+</a>
 
-CS grad from LUMS (May 2026) · Building real-time systems, backend services, and applied-AI products
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadhabib.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadhabib.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadbilal4376-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadbilal4376)
-[![Email](https://img.shields.io/badge/Email-ahmadbilal4376%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbilal4376@gmail.com)
+<a href="https://ahmadhabib.dev"><img src="https://img.shields.io/badge/ahmadhabib.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ahmadbilal4376"><img src="https://img.shields.io/badge/ahmadbilal4376-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmadbilal4376@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-### 🎯 Currently
+## 🎯 Currently
 
-- 🔭 Building **[InterviewPrepApp](https://www.interviewprep.studio)** — a real-time AI mock-interview platform (Next.js, Deepgram, Redis)
-- 🌱 Sharpening backend/systems fundamentals with a **distributed URL shortener** (caching, queues, rate limiting, WebSockets)
-- 💼 **Open to Full-Stack / Backend Software Engineer roles** — fresh grad, 2 SWE internships (Tintash, Jaycon)
-- ⚡ Fun fact: I use AI-assisted coding tools (Claude Code) daily — and I still read every line before it ships
+<table>
+<tr><td>
 
----
+🔭 &nbsp;Building **[InterviewPrepApp](https://www.interviewprep.studio)** — real-time AI mock-interview platform (Next.js · Deepgram · Redis)
+🌱 &nbsp;Sharpening systems fundamentals with a **distributed URL shortener** (caching, queues, rate limiting, WebSockets)
+💼 &nbsp;**Open to Full-Stack / Backend Software Engineer roles** — fresh grad, 2 SWE internships (Tintash, Jaycon)
+⚡ &nbsp;Ship with AI-assisted tools (Claude Code) — every line still reviewed and tested by hand
 
-### 🧰 Tech Stack
+</td></tr>
+</table>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+## 🧰 Tech Stack
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<div align="center">
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,express,react,nextjs,flask&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,docker,aws,git&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-4285F4?style=flat-square" />
 
----
+</div>
 
-### 🚀 Featured Projects
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header" />
 
-**[🎙️ InterviewPrepApp](https://github.com/ahmad4376/InterviewPrepApp)**
-Real-time AI mock-interview platform with a voice-agent backend that adapts follow-up questions dynamically. Migrated the speech pipeline to Deepgram, sustaining sub-600ms latency under concurrent load.
+### 🎙️ [InterviewPrepApp](https://github.com/ahmad4376/InterviewPrepApp)
+Real-time AI mock-interview platform with a voice-agent backend that adapts follow-up questions dynamically. Migrated the speech pipeline to Deepgram — sub-600ms latency under concurrent load.
 
 `Next.js` `Node.js` `Redis` `Deepgram` `OpenAI`
-🔗 [Live Demo](https://www.interviewprep.studio)
+&nbsp;·&nbsp; 🔗 [Live Demo](https://www.interviewprep.studio)
 
 </td>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=22D3EE&height=3&section=header" />
 
-**[🔗 Distributed URL Shortener](https://github.com/ahmad4376/url-shortener)**
-A systems-design-focused build covering the core scalability patterns used in production backend services — Redis caching, BullMQ job queues, Socket.io real-time updates, rate limiting, and DB indexing.
+### 🔗 [Distributed URL Shortener](https://github.com/ahmad4376/url-shortener)
+Systems-design build covering core backend scalability patterns — Redis caching, BullMQ job queues, Socket.io real-time updates, rate limiting, and DB indexing.
 
 `Node.js` `Express` `MongoDB` `Redis` `BullMQ` `Socket.io`
-🔗 [Live Demo](https://url-shortener-peach-six.vercel.app/)
+&nbsp;·&nbsp; 🔗 [Live Demo](https://url-shortener-peach-six.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=A78BFA&height=3&section=header" />
 
-**[🎓 LumsNavigator](https://github.com/ahmad4376/lumsnavigatorapp)**
-Campus utility app for LUMS students — course enrollment, budgeting, society info, and a RAG chatbot over academic-policy documents (95% answer accuracy on a held-out Q&A set).
+### 🎓 [LumsNavigator](https://github.com/ahmad4376/lumsnavigatorapp)
+Campus utility app for LUMS students — enrollment, budgeting, society info, plus a RAG chatbot over academic-policy docs (95% accuracy on a held-out Q&A set).
 
 `React` `Node.js` `Firebase` `Flask` `LangChain`
 
 </td>
 <td width="50%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F472B6&height=3&section=header" />
 
-**More on my profile ↗**
-Pin your favorite repos above using GitHub's pin feature (Profile → Customize your pins) so they show as cards right below this README.
+### 📌 More on my profile
+Repos above are pinned — click any card here or scroll down to see them live with stars/language badges.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmad4376&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad4376&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmad4376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad4376&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad4376&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad4376&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" />
 
-💬 Always happy to talk backend architecture, real-time systems, or Full-Stack/Backend SWE opportunities — reach out via [LinkedIn](https://linkedin.com/in/ahmadbilal4376) or [email](mailto:ahmadbilal4376@gmail.com).
+💬 &nbsp;Always happy to talk backend architecture, real-time systems, or SWE opportunities — [LinkedIn](https://linkedin.com/in/ahmadbilal4376) · [Email](mailto:ahmadbilal4376@gmail.com)
 
 </div>
